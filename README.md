@@ -14,5 +14,5 @@
 
  ## Techs used in the Project
 <div align="center">
-<img src="https://github.com/gibifyOfficial/Ecoleta-Booster--01/blob/master/server/public/assets/techs%20(2).png" />
+<img src="https://github.com/gibifyOfficial/Ecoleta-Booster--01/blob/master/server/public/assets/techs%20(2).png" width="1000" />
 <div/>

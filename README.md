@@ -5,3 +5,8 @@
 <div align="center">
 <img src="https://github.com/gibifyOfficial/Ecoleta-Booster--01/blob/master/server/public/assets/template.png" />
 <div/>
+<div align="center">
+<img src="<div align="center">
+<img src="https://github.com/gibifyOfficial/Ecoleta-Booster--01/blob/master/server/public/assets/submitpage.png" />
+<div/>" />
+<div/>

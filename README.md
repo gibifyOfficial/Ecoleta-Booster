@@ -9,9 +9,9 @@
   Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
 
  ### Arquivos:
-* [server](https://github.com/gibify/Proffy/tree/master/Server)
-* [web](https://github.com/gibify/Proffy/tree/master/Web)
-* [mobile](https://github.com/gibify/Proffy/tree/master/Mobile)
+* [server](https://github.com/gibify/Ecoleta-Booster/tree/master/server)
+* [web](https://github.com/gibify/Ecoleta-Booster/tree/master/web)
+
 
  ### Layout:
  
@@ -31,7 +31,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # clone o repositório na sua máquina
-$ git clone 
+$ git clone https://github.com/gibify/Ecoleta-Booster
 ```
 
  #### ⚙️ Rodando o Servidor (Backend) 
@@ -76,7 +76,7 @@ $ npm run start
 -   **[SQLite](https://github.com/mapbox/node-sqlite3)**
 -   **[ts-node-dev](https://github.com/TypeStrong/ts-node)**
 
-> Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Server/package.json)
+> Acesse o arquivo  [package.json](https://github.com/gibify/Ecoleta-Booster/blob/master/server/package.json)
 
 
 ## Web
@@ -85,7 +85,7 @@ $ npm run start
 -   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
 -   **[Axios](https://www.npmjs.com/package/axios)**
 
-> Acesse o arquivo  [package.json](https://github.com/gibify/Proffy/blob/master/Web/package.json)
+> Acesse o arquivo  [package.json](https://github.com/gibify/Ecoleta-Booster/blob/master/web/package.json)
 
 
 ### Autor

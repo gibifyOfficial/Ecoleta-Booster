@@ -3,7 +3,7 @@
 </div>
 
   # Sobre:
-  Ecoleta, é uma plataforma web para conectar pontos à pessoas ou empresas de coletas de resíduos, estes podem fazer a coleta de resíduos com eficiência e respeito ao meio ambiente. Os usuários podem pesquisar os pontos maís próximos de sua localidade. Os pontos de coletas porerão fazer o cadastro na plaforma, informando sua localização e tipos de items que recolhem.
+  Ecoleta, é uma plataforma web para conectar pontos à pessoas ou empresas de coletas de resíduos, estes podem fazer a coleta de resíduos com eficiência e conciência ao meio ambiente. Os usuários podem pesquisar os pontos maís próximos de sua localidade. Os pontos de coletas porerão fazer o cadastro na plataforma, informando sua localização e tipos de items que recolhem.
   
   
  Este projeto foi desenvolvido durante a Next Level Week [Rocketseat](https://rocketseat.com.br/).
